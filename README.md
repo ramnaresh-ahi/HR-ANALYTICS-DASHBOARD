@@ -18,9 +18,9 @@ The **HR Analytics Dashboard** is a comprehensive data visualization project dev
 - **DAX:** Data Analysis Expressions for creating custom calculations and measures.
 
 ### Usage
-1. **Clone the repository:** https://github.com/ramnaresh-ahi/HR-ANALYTICS-DASHBOARD.git
+1. **Clone the repository:** 
    ```sh
-
+               https://github.com/ramnaresh-ahi/HR-ANALYTICS-DASHBOARD.git
    ```
 2. **Open the Power BI file:**
    - Load the `HR ANALYTICS DASHBOARD.pbix` file in Power BI Desktop.
