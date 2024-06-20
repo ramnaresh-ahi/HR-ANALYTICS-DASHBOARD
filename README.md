@@ -20,10 +20,10 @@ The **HR Analytics Dashboard** is a comprehensive data visualization project dev
 ### Usage
 1. **Clone the repository:**
    ```sh
-(https://github.com/ramnaresh-ahi/HR-ANALYTICS-DASHBOARD.git)
+https://github.com/ramnaresh-ahi/HR-ANALYTICS-DASHBOARD.git
    ```
 2. **Open the Power BI file:**
-   - Load the `HR_Analytics_Dashboard.pbix` file in Power BI Desktop.
+   - Load the `HR ANALYTICS DASHBOARD.pbix` file in Power BI Desktop.
 3. **Explore the Dashboard:**
    - Interact with the visualizations to gain insights into employee attrition and relevant factors.
 
